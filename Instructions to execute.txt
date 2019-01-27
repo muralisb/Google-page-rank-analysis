@@ -1,0 +1,12 @@
+a) Following are the files containing Source code:
+1. coin.java
+2. menu.java
+3. test.java
+
+b) Jar file containing .class files is:  "DSAProject".
+
+c) A class with main() function to enter directed graph manually: 
+"coin.java"
+there is also a windows command file to execute this:  "manual.bat"
+
+d) A windows command file to execute the test program and see the results in tabular form: "Test.bat"
